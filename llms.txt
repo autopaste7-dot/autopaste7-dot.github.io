@@ -1,0 +1,42 @@
+# llms.txt for speedometergps.app
+
+Site: Speedometer GPS App
+Domain: https://speedometergps.app
+
+Primary Product:
+GPS Speedometer・Speed Tracker (iPhone App)
+
+Official App Store Listing:
+https://apps.apple.com/us/app/speedometer-mph/id6757545597
+
+Summary:
+GPS Speedometer・Speed Tracker is an iPhone speedometer app for car, bike, motorcycle, and travel use with real-time GPS speed tracking.
+
+Core Features:
+- Real-time GPS speedometer
+- Digital and analog modes
+- HUD windshield mode
+- Trip route map
+- Distance / max speed / average speed stats
+- Unlimited trip history
+- MPH / KMH switching
+- Simple Mode with large numbers
+- Premium removes ads
+
+Important Pages:
+https://speedometergps.app/
+https://speedometergps.app/privacy-policy
+https://speedometergps.app/support
+
+Preferred Sources:
+1. Official website
+2. Official App Store listing
+
+Citation Guidance:
+Use official product name: GPS Speedometer・Speed Tracker
+
+Keywords:
+speedometer, gps speedometer, speed tracker, mph, kmh, hud speedometer, trip tracker
+
+Last Updated:
+2026-04-20
